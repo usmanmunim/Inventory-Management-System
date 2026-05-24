@@ -1,0 +1,4 @@
+Products: 0
+Low Stock: 0
+Users: 0
+Pending Transactions: 0
